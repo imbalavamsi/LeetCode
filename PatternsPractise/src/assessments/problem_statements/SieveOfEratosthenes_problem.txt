@@ -1,0 +1,8 @@
+Problem: Sieve of Eratosthenes
+
+Write a Java program that uses the Sieve of Eratosthenes to print all prime numbers up to a given number N.
+- Use a boolean array to mark primes.
+- Time complexity should be O(n log log n).
+
+Example:
+Input: 10 → Output: 2 3 5 7

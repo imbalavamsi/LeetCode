@@ -1,0 +1,8 @@
+Problem: Nth Prime and List Generator
+
+Write a Java program that finds the nth prime number and prints all prime numbers up to that position.
+- Use an optimized primality check (√n).
+- Store all prime numbers found up to nth.
+
+Example:
+Input: 10 → Output: 10th prime is 29; List: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]

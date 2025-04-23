@@ -1,0 +1,9 @@
+Problem: Even or Odd Checker
+
+Write a Java program that takes a single integer as input and prints whether it is even or odd.
+- If the input is negative, print an error message.
+- Validate that the input is an integer.
+
+Example:
+Input: 4 → Output: Even
+Input: -3 → Output: Error: Negative numbers are not allowed.

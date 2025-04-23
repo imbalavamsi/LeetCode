@@ -1,0 +1,9 @@
+Problem: Number Palindrome Checker
+
+Write a Java program to check if a given positive integer is a palindrome.
+- Reverse the number mathematically (no string conversion).
+- Validate input for positivity.
+
+Example:
+Input: 121 → Output: Palindrome
+Input: 123 → Output: Not Palindrome

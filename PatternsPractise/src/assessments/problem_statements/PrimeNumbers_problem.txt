@@ -1,0 +1,7 @@
+Problem: Print All Primes up to N
+
+Write a Java program that prints all prime numbers up to a given number.
+- Use basic √n optimized logic to check each number.
+
+Example:
+Input: 10 → Output: 2 3 5 7

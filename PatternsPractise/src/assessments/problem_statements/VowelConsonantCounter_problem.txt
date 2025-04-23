@@ -1,0 +1,8 @@
+Problem: Vowel and Consonant Counter
+
+Write a Java program that counts the number of vowels and consonants in a string.
+- Only consider alphabet characters.
+- Ignore digits, spaces, and special characters.
+
+Example:
+Input: "Hello World!" → Output: Vowels: 3, Consonants: 7

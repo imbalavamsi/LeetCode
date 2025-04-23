@@ -1,0 +1,9 @@
+Problem: Sort and Display Integers
+
+Write a Java program to:
+- Accept a list of integers from the user.
+- Sort them using basic bubble sort logic (no built-in sorting functions).
+- Display both the unsorted and sorted list.
+
+Example:
+Input: [3, 1, 2] → Output: Unsorted: [3, 1, 2], Sorted: [1, 2, 3]

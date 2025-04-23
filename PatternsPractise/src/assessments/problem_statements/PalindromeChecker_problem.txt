@@ -1,0 +1,9 @@
+Problem: String Palindrome Checker
+
+Write a Java program to check if a string is a palindrome.
+- Case-sensitive and space-sensitive.
+- Do not use built-in reverse methods.
+
+Example:
+Input: "madam" → Output: Palindrome
+Input: "hello" → Output: Not Palindrome

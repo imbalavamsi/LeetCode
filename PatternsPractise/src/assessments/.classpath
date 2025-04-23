@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Armstrong.java"/>
+	<classpathentry kind="lib" path="EvenOrOdd.java"/>
+	<classpathentry kind="lib" path="FindTarget.java"/>
+	<classpathentry kind="lib" path="NthPrimeAndList.java"/>
+	<classpathentry kind="lib" path="PalindromeChecker.java"/>
+	<classpathentry kind="lib" path="PalindromeOrNot.java"/>
+	<classpathentry kind="lib" path="PerfectOrNot.java"/>
+	<classpathentry kind="lib" path="PrimeNumber.java"/>
+	<classpathentry kind="lib" path="PrimeNumbers.java"/>
+	<classpathentry kind="lib" path="PrimeOrNot.java"/>
+	<classpathentry kind="lib" path="SieveOfEratosthenes.java"/>
+	<classpathentry kind="lib" path="StringReverser.java"/>
+	<classpathentry kind="lib" path="VowelConsonantCounter.java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

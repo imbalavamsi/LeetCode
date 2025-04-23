@@ -1,0 +1,8 @@
+Problem: Prime Number Checker
+
+Write a Java method that checks whether an integer is prime.
+- Optimize using √n logic and skip even numbers after 2.
+
+Example:
+Input: 29 → Output: true
+Input: 20 → Output: false

@@ -1,0 +1,9 @@
+Problem: Prime Number Validator
+
+Write a Java program that reads a number and prints whether it is Prime or Not.
+- Validate for integers >= 2.
+- Use √n logic and skip even numbers after 2.
+
+Example:
+Input: 13 → Output: Prime
+Input: 20 → Output: Not Prime

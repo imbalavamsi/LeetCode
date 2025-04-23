@@ -1,0 +1,9 @@
+Problem: Perfect Number Checker
+
+Write a Java program that checks whether a number is a perfect number.
+- A perfect number is equal to the sum of its proper divisors (excluding itself).
+- Use divisor logic up to √n.
+
+Example:
+Input: 28 → Output: Perfect Number
+Input: 12 → Output: Not Perfect Number

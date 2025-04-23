@@ -1,0 +1,8 @@
+Problem: String Reverser
+
+Write a Java program to reverse a given string manually.
+- Do not use built-in reverse methods.
+- Handle edge cases like empty string.
+
+Example:
+Input: "hello" → Output: "olleh"
