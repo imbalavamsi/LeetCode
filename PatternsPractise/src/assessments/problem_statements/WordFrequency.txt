@@ -1,0 +1,58 @@
+🧩 Problem: Word Frequency Counter + Recursive Reversal
+
+📜 Instructions:
+
+Accept a sentence from the user.
+
+Clean each word (remove punctuation except apostrophes).
+
+Convert all words to lowercase.
+
+Count the frequency of each unique word.
+
+Output should be in alphabetical order.
+
+Ask the user:
+"Do you want to reverse it recursively? (y/n)"
+
+If y → reverse the entire input string using recursion
+
+If n → exit
+
+Else → print "Invalid choice."
+
+🧷 Constraints:
+
+Word comparison is case-insensitive.
+
+Apostrophes (') are allowed inside words (e.g., "I'm").
+
+Do not count empty words.
+
+Recursive reverse must not use loops.
+
+Empty input → "Empty input"
+
+🧪 Sample Input:
+
+vbnet
+Copy
+Edit
+Don't trouble the trouble; if you trouble the trouble, trouble troubles you. I'm not the trouble I'm the truth! Jai Balayya!
+Sample Output:
+
+makefile
+Copy
+Edit
+Word Frequencies:
+balayya: 1  
+don't: 1  
+if: 1  
+i'm: 2  
+jai: 1  
+not: 1  
+the: 4  
+trouble: 5  
+troubles: 1  
+truth: 1  
+you: 2  

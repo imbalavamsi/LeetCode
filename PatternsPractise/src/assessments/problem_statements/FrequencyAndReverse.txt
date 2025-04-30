@@ -1,0 +1,57 @@
+🧩 Problem: Frequency Counter + Recursive String Reversal
+
+📜 Instructions:
+
+Take a string input from the user.
+
+Count how many times each alphabet character appears (case-insensitive).
+
+Ignore digits, spaces, symbols.
+
+Print character frequencies in sorted order (alphabetical).
+
+Then ask:
+"Do you want to reverse it recursively? (y/n)"
+
+If y → reverse the string using recursion (no loops allowed)
+
+If n → exit
+
+Any other input → "Invalid choice."
+
+🧷 Constraints:
+
+Only count letters A–Z or a–z.
+
+Case-insensitive frequency count.
+
+Preserve casing of the first occurrence (FCFS).
+
+Use switch or ternary for choice handling.
+
+No loops in recursive reverse.
+
+Empty string → "Empty input"
+
+Output must be sorted alphabetically (a-z).
+
+🧪 Sample Input:
+
+nginx
+Copy
+Edit
+Hello Madam Laila
+Sample Output:
+
+vbnet
+Copy
+Edit
+a:4  
+d:1  
+e:1  
+H:1  
+i:1  
+l:4  
+M:2  
+o:1  
+Reversed string: aliaL madaM olleH
