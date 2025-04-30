@@ -1,0 +1,16 @@
+FirstNonRepeatingCharacter.java
+Problem: Return the first character that does not repeat.
+Constraints:
+
+Case-insensitive matching
+
+Preserve original casing in output
+Sample Input:
+"Swiss"
+Sample Output:
+"w"
+Approach:
+
+Count frequencies using LinkedHashMap
+
+Loop through original string to find first with freq = 1

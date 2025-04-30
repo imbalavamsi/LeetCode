@@ -1,0 +1,16 @@
+LetterFrequencyCounter.java
+Problem: Count frequency of alphabet characters (case-insensitive) in a sentence.
+Constraints:
+
+Ignore digits, spaces, and symbols
+Sample Input:
+"My name is Bala vamsi. I am a Software Developer"
+Sample Output:
+a: 7
+b: 1
+...
+Approach:
+
+Convert to lowercase, filter only letters
+
+Count using getOrDefault()

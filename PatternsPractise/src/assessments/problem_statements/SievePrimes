@@ -1,0 +1,15 @@
+SievePrimes.java
+Problem: Use the Sieve of Eratosthenes to print all primes up to n.
+Constraints:
+
+n > 1
+Sample Input:
+20
+Sample Output:
+2, 3, 5, 7, 11, 13, 17, 19
+Approach:
+
+Use array or list, mark multiples of each prime starting from 2
+
+Skip already marked values
+

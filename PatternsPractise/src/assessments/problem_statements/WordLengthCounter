@@ -1,0 +1,17 @@
+WordLengthCounter.java
+Problem: Count how many words are of each length in a given array.
+Constraints:
+
+Words are strings with only letters
+Sample Input:
+["hi", "hello", "hey", "sun", "world"]
+Sample Output:
+2: 1
+3: 2
+5: 2
+Approach:
+
+Loop through the array, get length of each word
+
+Use getOrDefault to count frequency of lengths
+

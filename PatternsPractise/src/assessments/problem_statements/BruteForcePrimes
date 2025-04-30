@@ -1,0 +1,13 @@
+BruteForcePrimes.java
+Problem: Print all prime numbers up to a given number using brute-force.
+Constraints:
+
+Positive integer n
+Sample Input:
+10
+Sample Output:
+2, 3, 5, 7
+Approach:
+
+Check divisibility from 2 to n-1 for each number
+

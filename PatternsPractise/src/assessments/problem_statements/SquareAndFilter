@@ -1,0 +1,13 @@
+SquareAndFilter.java
+Problem: Print squares of even numbers from an array.
+Constraints:
+
+Input is int[]
+Sample Input:
+[1, 2, 3, 4, 5]
+Sample Output:
+4 16
+Approach:
+
+Loop, check if even, then square and print
+

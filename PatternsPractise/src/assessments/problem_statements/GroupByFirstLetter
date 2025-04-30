@@ -1,0 +1,17 @@
+Problem: Group words by their starting character.
+Constraints:
+
+Words contain only letters
+
+Case-sensitive grouping
+Sample Input:
+["Alice", "Arun", "Bob", "Bala", "Charlie"]
+Sample Output:
+A: [Alice, Arun]
+B: [Bob, Bala]
+C: [Charlie]
+Approach:
+
+Use Map<Character, List>
+
+Use getOrDefault() or computeIfAbsent() to maintain groupings

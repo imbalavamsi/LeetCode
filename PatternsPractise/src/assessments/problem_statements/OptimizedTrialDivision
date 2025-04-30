@@ -1,0 +1,13 @@
+OptimizedTrialDivision.java
+Problem: Print all primes up to n using square root optimization.
+Constraints:
+
+n > 1
+Sample Input:
+20
+Sample Output:
+2, 3, 5, 7, 11, 13, 17, 19
+Approach:
+
+For each number from 2 to n, check divisibility up to sqrt(i)
+

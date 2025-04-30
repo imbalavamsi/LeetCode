@@ -1,0 +1,13 @@
+LongestWordReducer.java
+Problem: Find and print the longest word in a sentence.
+Constraints:
+
+Words are space-separated
+Sample Input:
+"Java is simple and powerful"
+Sample Output:
+"powerful"
+Approach:
+
+Split string, track word with max length
+

@@ -1,0 +1,14 @@
+FirstNameStartsWithA.java
+Problem: Print all names from an array that start with 'A'.
+Constraints:
+
+Case-sensitive
+Sample Input:
+["Arun", "Bala", "Ajay", "Sunny"]
+Sample Output:
+Arun
+Ajay
+Approach:
+
+Loop, use startsWith("A")
+

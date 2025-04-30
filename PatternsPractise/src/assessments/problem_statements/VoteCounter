@@ -1,0 +1,16 @@
+VoteCounter.java
+Problem: Count how many votes each candidate received.
+Constraints:
+
+Votes are given as names in an array
+Sample Input:
+["Tom", "Jerry", "Tom", "Spike", "Jerry", "Tom"]
+Sample Output:
+Tom: 3
+Jerry: 2
+Spike: 1
+Approach:
+
+Count using getOrDefault()
+
+Optionally sort by vote count using List + Collections.sort

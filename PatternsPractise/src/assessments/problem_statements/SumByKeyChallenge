@@ -1,0 +1,20 @@
+SumByKeyChallenge.java
+Problem: Given two lists, one with keys and another with values, calculate the total sum for each key.
+Constraints:
+
+Keys are strings, values are integers
+
+Keys may repeat
+Sample Input:
+keys = ["A", "B", "A", "C", "B"]
+values = [10, 5, 15, 20, 10]
+Sample Output:
+A: 25
+B: 15
+C: 20
+Approach:
+
+Loop over both lists in parallel
+
+Use getOrDefault() to accumulate totals in a HashMap
+Hint: Map.put(key, map.getOrDefault(key, 0) + value)

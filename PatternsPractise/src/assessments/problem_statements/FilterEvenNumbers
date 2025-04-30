@@ -1,0 +1,12 @@
+FilterEvenNumbers.java
+Problem: From an array of integers, print only even numbers.
+Constraints:
+
+Input is int[]
+Sample Input:
+[1, 2, 3, 4, 5, 6]
+Sample Output:
+2 4 6
+Approach:
+
+Use loop, print if number % 2 == 0

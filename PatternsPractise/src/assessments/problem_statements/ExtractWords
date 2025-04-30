@@ -1,0 +1,15 @@
+ExtractWords.java
+Problem: Extract words from a sentence and print each on a new line.
+Constraints:
+
+Words are separated by spaces
+Sample Input:
+"Java is powerful"
+Sample Output:
+Java
+is
+powerful
+Approach:
+
+Use String.split(" ")
+
